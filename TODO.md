@@ -1,1 +1,1 @@
-TODO: Add function for login to my magic API
+TODO: Add function for login to my API
