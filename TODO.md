@@ -1,4 +1,4 @@
 TODO: Add function for login to my API
 
-TODO: win_ch2
-TODO: linux_ch2
+- Windows monitoring
+- Real-time windows performance monitoring tool.  
